@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="642a9b66-57ec-4283-8425-16f8002d03ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/data.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/data.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/device_setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/device_setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/getting_credentials.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/getting_credentials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/read_Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/read_Config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locators/createChat_Page_Locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Locators/createChat_Page_Locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locators/signIn_Page_Locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Locators/signIn_Page_Locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locators/startChat_Page_Locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Locators/startChat_Page_Locators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenarios/regression_Cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenarios/regression_Cycle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +33,9 @@
   <component name="ProjectId" id="1UAj2535WF9QK3UoD6f01nvtfny" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Helpers" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -151,6 +163,14 @@
       <option name="presentableId" value="Default" />
       <updated>1574806084363</updated>
     </task>
+    <task id="LOCAL-00001" summary="ReadMe Updated">
+      <created>1575159763138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575159763138</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,10 +178,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ReadMe Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReadMe Updated" />
   </component>
 </project>

@@ -70,17 +70,3 @@ class Basic_Cycle_Ran(device_Setup):
         action_startChat(self.driver).click_add_mew_member()
         action_startChat(self.driver).wait_Till_element_Clickable(startChat_element().contact_actions())
         action_startChat(self.driver).click_add_contact()
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -93,8 +93,3 @@ class signIn_Page_Actions(signIn_Page_Locators):
             while(self.select_pop_up_message().is_displayed()):
                 self.select_proceed_arrow().click()
             self.select_get_started().click()
-
-
-
-
-

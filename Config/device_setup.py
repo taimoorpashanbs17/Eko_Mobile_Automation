@@ -14,5 +14,3 @@ class device_Setup(unittest.TestCase):
 
     def tearDown(self):
         self.driver.quit()
-
-

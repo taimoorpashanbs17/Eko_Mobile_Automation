@@ -16,6 +16,3 @@ class read_Config:
     def topic_Name(self):
         topic_Name = self.config['DEFAULT']['TOPIC_NAME']
         return topic_Name
-
-
-

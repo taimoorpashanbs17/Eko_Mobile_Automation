@@ -119,14 +119,3 @@ class createChat_Page_actions(createChat_Page_Locators):
 
     def go_back(self):
         self.select_navigate_back().click()
-
-
-
-
-
-
-
-
-
-
-

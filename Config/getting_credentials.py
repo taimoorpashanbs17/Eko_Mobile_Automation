@@ -9,4 +9,3 @@ class getting_credentials:
         user_name = self.sheet_name['A2'].value
         password = self.sheet_name['B2'].value
         return user_name, password
-
